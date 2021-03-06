@@ -1,1 +1,1 @@
-
+![pdf](https://github.com/sx755783346/-406-/blob/main/CVPR/2021%20Automatic%20Vertebra%20Localization%20and%20Identification%20in%20CT%20by%20Spine%20Rectification%20and%20Anatomically-constrained%20Optimization.pdf)
